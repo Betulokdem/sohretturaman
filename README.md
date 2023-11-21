@@ -1,6 +1,6 @@
-### Hi there 👋
+## Hi there 👋
 !React fullstack web developer,
-!React Native - Flutter Mobile Developer
+!React Native  Mobile Developer
 <!--
 **sohretturaman/sohretturaman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
