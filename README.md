@@ -1,6 +1,14 @@
 ## Hi there 👋
 !React fullstack web developer,
 !React Native  Mobile Developer
+- 🔭 I’m currently working on React Native
+- 🌱 I’m currently learning  React
+-  I’m looking for help with ...
+- 📫 How to reach me: email:
+- 💬 Ask me about  React-redux , React.js , React-native
+  
+   
+
 <!--
 **sohretturaman/sohretturaman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
