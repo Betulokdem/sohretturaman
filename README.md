@@ -3,8 +3,6 @@
 !React Native  Mobile Developer
 - 🔭 I’m currently working on React Native
 - 🌱 I’m currently learning  React
--  I’m looking for help with ...
-- 📫 How to reach me: email:
 - 💬 Ask me about  React-redux , React.js , React-native
   
    
