@@ -1,7 +1,7 @@
 ## Hi, Welcome To My Github Profile 👋
 !React fullstack web developer,
 !React Native  Mobile Developer
-- 🔭 I’m currently working on React Native
+- 🔭 I’m currently working on React Native and react-native-web 
 - 🌱 I’m currently learning  React
 - 💬 Ask me about  React-redux , React.js , React-native
   
