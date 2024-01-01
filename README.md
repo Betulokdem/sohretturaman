@@ -3,7 +3,7 @@
 !React Native  Mobile Developer
 - 🔭 I’m currently working on React Native and react-native-web 
 - 🌱 I’m currently learning  React
-- 💬 Ask me about  React-redux , React.js , React-native
+- 💬 Ask me about  React-redux , React.js , React-native, also typescript, javascript, graphQL
   
    
 
